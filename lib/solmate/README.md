@@ -6,6 +6,7 @@
 
 ```ml
 auth
+├─ Owned — "Simple single owner authorization"
 ├─ Auth — "Flexible and updatable auth pattern"
 ├─ authorities
 │  ├─ RolesAuthority — "Role based Authority that supports up to 256 roles"
@@ -40,12 +41,6 @@ While each [major release has been audited](audits), these contracts are **not d
 We **do not give any warranties** and **will not be liable for any loss** incurred through any use of this codebase.
 
 ## Installation
-
-To install with [**DappTools**](https://github.com/dapphub/dapptools):
-
-```sh
-dapp install rari-capital/solmate
-```
 
 To install with [**Foundry**](https://github.com/gakonst/foundry):
 

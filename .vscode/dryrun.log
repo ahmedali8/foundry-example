@@ -1,0 +1,6 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory `/Users/ahmedali/Disk/developer/programming/practice/nft_foundry_tutorial'
+make: Leaving directory `/Users/ahmedali/Disk/developer/programming/practice/nft_foundry_tutorial'
+ 
+make: *** No targets specified and no makefile found.  Stop.
+
